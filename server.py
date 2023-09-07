@@ -13,6 +13,10 @@ def get_hello():
         return jsonify({"response": response})
     except Exception as e:
         return jsonify({"error": str(e)})
+    
+@app.route('/health')
+def health_check():
+    return 'Healthy', 200
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='localhost', port=8080)
