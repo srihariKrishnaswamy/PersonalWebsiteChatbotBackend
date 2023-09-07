@@ -1,0 +1,114 @@
+Query: 
+Where is Srihari from?
+
+Answer: 
+He is from just outside Seattle, Washington. He bounced around that area a few times in towns like Issaquah, Sammamish & Bothell, but has always remained around the Seattle area.
+
+Query: 
+What is his race/ethicity?
+
+Answer: 
+South indian, originating from Bengaluru & Tamil Nadu. At home they speak Tamil & Srihari was in Tamil school when he was younger.
+
+Query: 
+Tell me about Srihari
+
+Answer: 
+He's a college student at the University of Washington studying Computer Science. He enjoys sports like Football & Basketball. He produces music as a hobby and has been doing so for the past 5 years. He co-founded & led a charitable coding education organization with his best friend in high school & taught over 250 students total. He is passionate about Computer Science, having completed many internships working on tech ranging from AR/VR to Machine Learning to full stack development. He is a skilled fullstack developer, Proficient in Python, Java & various JavaScript frameworks. He uses the MERN stack a lot when doing web development & is proficient with NoSQL databases, MongoDB specifically. In his most recent internship, he wrote the REST API, architected the database, and worked on the frontend for a paid webapp for a wellness based startup. He also built a custom frequncy generator & stored user data pertaining to their sound preference, finding an intersection between his interests of Computer Science & music/sound. He has also developed an winning Computer Vision project for his robotics team & wrote an ML-powered desktop app for upocming producers from scratch, writing each part of the stack in full & all neural networks by himself. He also has led volunteer/charity organizations and is an entreprener when it comes to starting up his own ideas. 
+
+Query: 
+What are some projects that he's done:
+
+Answer: 
+1. SeaScout: (2023) As a part of the UW Underwater Robotics team, created SeaScout: a desktop application for oceanographers that implements the Yolov5 object detection algorithm to detect deep-sea organisms. He managed the model's dataset, analyzed model metrics & optimized model performance, and wrote the app's user interface & all of its functionality. SeaScout won 2nd place in the MATE National ML contest among 100 other top universities.
+2. Trap Deconstructed (2023): A web app Srihari built with PyTorch, Python and React that predicts the key, mode, feel and bpm of trap songs using deep Convolutional Neural Networks. It also implements the OpenAI API to prompt Chat-GPT based on the predicted labels. He curated the dataset, built and trained the models, built the app's server using Flask, and the front-end using React. He iterated on model architectures and optimized them to the point of generating useful predictions for users. In the end, he also dockerized the application. It is meant for people just getting into music production to quickly analyze samples & make similar sounding beats.
+3. VolunteerVoucher (2021): A mobile app I built with Flutter, Dart, Firebase Cloud Authentication and Google Firestore Database designed for volunteer organizations to keep track of their members and projects.
+4. Personal Website (2023): This exact website you're looking at now! Srihari built the frontend in React, used the OpenAI API to build the chatbot, trained it on some personal data, hooked it up to the frontend via a Node.js API, and viola, here it is.
+
+Query: 
+Tell me about Srihari's work experience
+
+Answer: 
+1. Software Development Intern at The Verse (2023): Srihari just wrapped up an internship at The Verse where he worked on a paid MERN webapp. Srihari architected the database for a paid webapp & built out its entire Node.js REST API implementing industry standard security practices. He also worked on a frontend frequency modulation system with React & built out other frontend features. He also managed a secure deployment of the frontend & backend of the webapp.
+2. Software Co-lead at UW Underwater Robotics (UWROV) (2023 - Present): Srihari became software team co-lead at UWROV, where he built SeaScout, a desktop app that won 2nd place nationally among top colleges that implements SOTA computer vision algorithms to detect & classify deepsea organisms for oceanographers. He also worked on autonomous motion. He now manages a team of developers, architects software for next years robot, and writes Python code for it on Linux, gaining expereince with protocols like WebSockets in the process. 
+3. Undergraduate Research Assistant at the University of Washington (2023): Srihari worked on a research paper studying accessibility solutions for sonification of online data visualizations for blind people alongside a PhD candidate Ather Sharif and professor Jacob Wobbrock, a leading HCI authority. They submitted their paper for publishing.
+4. Co-founder of CodeAhead (2021 - 2022): Srihari co-founded & led a charitable coding education org, teaching Python & Java. He developed 48+ hours of content in Python & Java, supervised 14 instructors & managers and expanded organization. CodeAhead over 250 students & raised over $7,000 for multiple partner charities.
+5. VR/AR Research Intern at UC Santa Barbara (2021): Srihari led 3 other interns on a research project in the VR/AR field where they developed a series of simulations using C# and Unity. They presented in a formal research seminar and wrote a formal research paper. They were advised by Dr. You-Jin Kim.
+
+Query:
+Does Srihari have experience with Research?
+
+Answer:
+Yes, he was an Undergraduate Research Assistant at the UW under PhD candidate Ather Sharif & Dr. Jacob Wobbrock, an authorities in the HCI field. Here, we studied sonification solutions and submitted our research paper. Srihari was also a research intern studying VR technologies at UC Santa Barbara, where he developed complex simulations in C# under Dr. You Jin Kim studying users' affinity for violence in a VR scenario.
+
+Query: 
+Does Srihari have any volunteering experience?
+
+Answer: 
+Yes, he does! Srihari started a sports related sub-organization under the volunteer organization VTSEVA that brought in $8,000 of profits within a couple of months, revitalizing the Seattle branch of VTSEVA during the end of the pandemic. He also became Co-President of the Seattle branch of VTSEVA, leading a number of initatives.
+
+Query:
+What does Srihari do for fun?
+
+Answer:
+In his free time, Srihari likes to produce music, namely trap music, code & play sports like basketball & football.
+
+Query:
+What are Srihari's favorite movies
+
+Answer:
+Srihari likes a lot action movies. His favorite movies are Interstellar, Avengers: Endgame, Inception and The Pursuit of Happyness.
+
+Query:
+What are Srihari's favorite actors?
+
+Answer: 
+Srihari likes Leo Dicaprio, Samuel L Jackson, Margot Robbie, Robert Downey Jr, Cillian Murphy and Brad Pitt.
+
+Query:
+What type of music does Srihari like?
+
+Answer:
+Srihari loves rap, RnB and modern trap music, and that's the music he makes & listens to.
+
+Query:
+Who are Srihari's favorite artists?
+
+Answer:
+Srihari loves Drake, Travis Scott, Future, The Weeknd, NAV, Young Thug and other contemporary trap/RnB artists. However, he's also a fan of artists like J. Cole, Jay Z, Kanye West, Mobb Deep & other older artists.
+
+Query:
+What are Srihari's values?
+
+Answer:
+Srihari loves to work hard & learn new skills. He loves to learn new problem solving techinques, new CS concepts & new AI/ML concepts to further his understanding of the tech that's taking us into the future.
+
+Query:
+What are Srihari's goals?
+
+Answer:
+Srihari wants to become a Senior Software Engineer at a large tech company one day, working with big data & technologies that are used by billions. After that, Srihari wants to start his own VR-based startup, since that's the direction that phones & other contemporary tech is headed.
+
+Query:
+What are some of Srihari's strengths?
+
+Answer:
+Srihari is a great leader & is efficient at bringing people together to acomplish big things. He also has grit and never gives up on solving hard problems. He is skilled with Data Structures & Algorithms, and can solve complex problems. He is also well versed in lots of programming languages and frameworks and is a good teacher.
+
+Query:
+What are some of his weaknesses?
+
+Answer:
+He sometimes does not thing things through before starting them, and can act impulsivley sometimes.
+
+Query:
+What did Srihari do in his childhood
+
+Answer:
+Srihari loved to explore & would always look for new spots to hang out. He would code a lot & spend a lot of time doing schoolwork & other activities in high school. He also made a lot of music and played a lot of sports.
+
+Query:
+What are Srihari's skills as a programmer:
+
+Answer: 
+Srihari is skilled at Python, Java, JavaScript various web frameworks like Flask, Node.js, Express.js & React.js, databases like MongoDB, ML frameworks & libraries like PyTorch & Pandas, cloud computing software like AWS, container software like Docker, deployment software like Render, and low level programming languages like C.

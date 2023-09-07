@@ -1,0 +1,93 @@
+Query:
+What is Srihari's cultural background?
+
+Answer:
+Srihari's cultural roots trace back to South India, with ancestral ties to Bengaluru and Tamil Nadu. Tamil serves as the language spoken in his home, and during his formative years, he even attended Tamil school.
+
+Query:
+What are Srihari's values?
+
+Answer:
+Srihari places a high value on diligent effort and continuous skill acquisition. He harbors a strong enthusiasm for mastering problem-solving techniques, exploring novel computer science concepts, and delving into AI/ML concepts to deepen his grasp of technology and its future implications.
+
+Query:
+Does Srihari have experience with Research?
+
+Answer:
+Yes, he held the position of Undergraduate Research Assistant at the University of Washington under the guidance of PhD candidate Ather Sharif and Dr. Jacob Wobbrock, renowned figures in the HCI field. In this capacity, they conducted research into sonification solutions and submitted their research paper. Additionally, Srihari served as a research intern, delving into VR technologies at UC Santa Barbara. During this time, he developed intricate simulations in C# under the supervision of Dr. You Jin Kim, exploring user interactions with violence in a VR scenario.
+
+Query:
+Who is Srihari?
+
+Answer:
+Srihari is a student enrolled at the University of Washington, where he focuses on a major in Computer Science. He harbors a passion for sports like Football and Basketball and has honed his music production skills over the past five years. During high school, he co-founded a coding education organization, impacting over 250 students. His professional journey includes diverse internships, spanning domains from AR/VR to Machine Learning and full-stack development. He excels in various programming languages, including Python, Java, and various JavaScript frameworks. His web development projects often feature the MERN stack, and he exhibits proficiency in NoSQL databases, with a particular focus on MongoDB. His most recent internship involved significant contributions to the development of a paid web app for a wellness startup, encompassing custom frequency generation and user sound preference data storage. Srihari boasts a track record of successful projects, ranging from a Computer Vision initiative for his robotics team to an ML-powered desktop app tailored for budding music producers. He maintains an entrepreneurial spirit, perpetually exploring new ideas and leading volunteer and charity endeavors.
+
+Query:
+What are Srihari's aspirations?
+
+Answer:
+Srihari's overarching aspiration centers around becoming a Senior Software Engineer at a prominent tech enterprise, specializing in cutting-edge technologies with wide-reaching impact, affecting billions of individuals. Subsequently, he envisions founding a VR-based startup, in alignment with the prevailing technological trends, such as virtual reality. His ultimate ambition encompasses leaving an enduring imprint on the tech industry and contributing significantly to the future course of technology.
+
+Query:
+Does Srihari have volunteer experience?
+
+Answer:
+Yes, Srihari possesses an extensive volunteering background. He initiated a sports-focused sub-organization under VTSEVA, generating $8,000 in profits within a few months and revitalizing the Seattle branch during the later stages of the pandemic. He also assumed the role of Co-President of the Seattle branch, overseeing various initiatives.
+
+Query:
+What type of music does Srihari enjoy?
+
+Answer:
+Srihari's musical inclinations lean toward rap, RnB, and modern trap music, coincidentally the very genre he both creates and listens to.
+
+Query:
+What are some of Srihari's hobbies?
+
+Answer:
+During his leisure hours, Srihari derives enjoyment from producing music, primarily in the trap genre. He also devotes time to coding and engages in sports such as basketball and football.
+
+Query:
+Who are some of Srihari's favorite actors?
+
+Answer:
+Srihari holds admiration for actors such as Leonardo DiCaprio, Samuel L. Jackson, Margot Robbie, Robert Downey Jr., Cillian Murphy, and Brad Pitt.
+
+
+Query:
+What are Srihari's programming skills?
+
+Answer:
+Srihari demonstrates proficiency in an extensive array of programming languages and technologies, encompassing Python, Java, JavaScript, various web frameworks such as Flask, Node.js, Express.js & React.js, databases such as MongoDB, ML frameworks and libraries like PyTorch & Pandas, cloud computing solutions like AWS, container technologies such as Docker, deployment platforms like Render, and low-level programming languages like C.
+
+Query:
+Tell me about Srihari's work experience.
+
+Answer:
+Srihari's professional journey encompasses diverse roles:
+Software Development Intern at The Verse (2023): Srihari recently concluded an internship at The Verse, where he contributed to a paid MERN web app. His responsibilities included database architecture, complete development of the Node.js REST API with an emphasis on security, creation of a frontend frequency modulation system with React, and other frontend functionalities. He also managed the secure deployment of both the frontend and backend.
+Software Co-lead at UW Underwater Robotics (UWROV) (2023 - Present): Srihari currently holds the position of co-lead for the software team at UWROV. He played a pivotal role in the development of SeaScout, a desktop app that secured 2nd place nationally among top colleges. He now leads a team of developers, contributes to software architecture for the upcoming year's robot, and crafts Python code on Linux, gaining exposure to protocols like WebSockets.
+Undergraduate Research Assistant at the University of Washington (2023): Srihari participated in research focused on accessibility solutions for sonification of online data visualizations, particularly for visually impaired individuals. This research was conducted in collaboration with a PhD candidate and a leading HCI professor, with a paper submission in progress.
+Co-founder of CodeAhead (2021 - 2022): Srihari co-founded and spearheaded a charitable coding education organization, where he taught Python and Java, developed extensive course content, supervised instructors, and expanded the organization's outreach, impacting over 250 students and raising over $7,000 for partner charities.
+VR/AR Research Intern at UC Santa Barbara (2021): Srihari led a team of interns in a research project within the VR/AR domain, focusing on the development of simulations using C# and Unity. The team presented their findings in a formal research seminar and authored a research paper, under the guidance of Dr. You-Jin Kim.
+
+Query:
+Who are some of Srihari's preferred music artists?
+
+Answer:
+Srihari expresses his admiration for artists like Drake, Travis Scott, Future, The Weeknd, NAV, and Young Thug, who represent contemporary trap and RnB. He also holds appreciation for artists from an older generation, including J. Cole, Jay Z, Kanye West, Mobb Deep, and others.
+
+Query:
+What are some of Srihari's notable projects?
+
+Answer:
+Srihari has contributed to a multitude of projects:
+SeaScout (2023): As a member of the UW Underwater Robotics team, Srihari played a crucial role in the creation of SeaScout, a desktop application designed for oceanographers. The app incorporates the Yolov5 object detection algorithm to identify deep-sea organisms. Srihari managed the model's dataset, optimized model performance, and crafted the user interface and functionality. SeaScout secured 2nd place in the MATE National ML contest among 100 other universities.
+Trap Deconstructed (2023): Srihari developed a web app using PyTorch, Python, and React to predict the key, mode, feel, and BPM of trap songs through deep Convolutional Neural Networks. The app also integrates the OpenAI API to generate Chat-GPT responses based on the predicted labels. Srihari curated the dataset, trained the models, constructed the server with Flask, designed the front-end with React, and containerized the application. This app is tailored to assist newcomers in the realm of music production.
+VolunteerVoucher (2021): Srihari crafted a mobile app employing Flutter, Dart, Firebase Cloud Authentication, and Google Firestore Database. This app caters to volunteer organizations, aiding them in managing their memberships and projects.
+Personal Website (2023): The website you are currently browsing was designed by Srihari. He constructed the frontend using React, integrated the OpenAI API for the chatbot, and established connectivity to the frontend via a Node.js API, resulting in the website's current form.
+
+Query:
+Where is Srihari originally from?
+
+Answer:
+Srihari's origins trace to the outskirts of Seattle, Washington. Although he has relocated within the Seattle area, residing in towns like Issaquah, Sammamish, and Bothell, he has always maintained a connection to the Seattle region.
