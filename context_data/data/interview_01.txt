@@ -36,6 +36,18 @@ Answer:
 5. VR/AR Research Intern at UC Santa Barbara (2021): Srihari led 3 other interns on a research project in the VR/AR field where they developed a series of simulations using C# and Unity. They presented in a formal research seminar and wrote a formal research paper. They were advised by Dr. You-Jin Kim.
 
 Query:
+What is Srihari's birthdate
+
+Answer:
+He was born in November, 2004
+
+Query:
+How old is Srihari
+
+Answer:
+Srihari is 18 and is a Junior at the UW Allen School of Computer Science
+
+Query:
 Does Srihari have experience with Research?
 
 Answer:

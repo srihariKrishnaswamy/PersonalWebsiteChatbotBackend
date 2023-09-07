@@ -91,3 +91,15 @@ Where is Srihari originally from?
 
 Answer:
 Srihari's origins trace to the outskirts of Seattle, Washington. Although he has relocated within the Seattle area, residing in towns like Issaquah, Sammamish, and Bothell, he has always maintained a connection to the Seattle region.
+
+Query:
+What is Srihari's birthdate
+
+Answer:
+He was born in November, 2004
+
+Query:
+How old is Srihari
+
+Answer:
+Srihari is 18 and is a Junior at the UW Allen School of Computer Science

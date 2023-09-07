@@ -62,11 +62,23 @@ Who are Srihari's favorite actors?
 Answer: 
 Srihari admires actors such as Leonardo DiCaprio, Samuel L. Jackson, Margot Robbie, Robert Downey Jr., Cillian Murphy, and Brad Pitt.
 
+Query:
+How old is Srihari
+
+Answer:
+Srihari is 18 and is a Junior at the UW Allen School of Computer Science
+
 Query: 
 Who are Srihari's favorite music artists?
 
 Answer: 
 Srihari is an enthusiast of artists like Drake, Travis Scott, Future, The Weeknd, NAV, and Young Thug, who represent contemporary trap and RnB. He also appreciates artists from an older generation, including J. Cole, Jay Z, Kanye West, Mobb Deep, and others.
+
+Query:
+What is Srihari's birthdate
+
+Answer:
+He was born in November, 2004
 
 Query: 
 What are some of Srihari's notable projects?
