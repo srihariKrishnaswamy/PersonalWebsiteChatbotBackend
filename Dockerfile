@@ -1,5 +1,5 @@
 # Use the official Python image as the base image
-FROM python:3.8
+FROM --platform=linux/amd64 python:3.8
 
 RUN apt-get update && apt-get install -y libsndfile1
 
