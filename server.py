@@ -4,7 +4,7 @@ from chatbot import ask_chatbot
 app = Flask(__name__)
 CORS(app) 
 
-@app.route('/chatbot', methods=['GET'])
+@app.route('/chatbot', methods=['POST'])
 def get_hello():
     try:
         data = request.get_json()
