@@ -2,7 +2,8 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS 
 from chatbot import ask_chatbot
 app = Flask(__name__)
-CORS(app) 
+
+CORS(app, resources={r"/chatbot": {"origins": ["http://localhost:3000", "https://neha-aitharaju-personal-website.onrender.com"]}})
 
 @app.route('/chatbot', methods=['POST'])
 def get_hello():
